@@ -8,19 +8,19 @@ This project uses Linear Regression to predict California house prices based on 
 
 The project demonstrates a complete beginner-friendly machine learning workflow, including:
 
-Data loading
-Exploratory Data Analysis
-Missing value handling
-Feature engineering
-Model training
-Performance evaluation
-Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-Dataset
+- Data loading
+- Exploratory Data Analysis
+- Missing value handling
+- Feature engineering
+- Model training
+- Performance evaluation
+- Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Dataset
 
 California Housing Dataset
 
@@ -32,16 +32,16 @@ Mean Absolute Error
 This means the model's predictions differ from the actual house prices by approximately $51,000 on average.
 
 ## What I Learned
-Exploring datasets with Pandas
-Understanding features and target variables
-Handling missing values with mean imputation
-Splitting data into training and testing sets
-Training a Linear Regression model
-Evaluating performance using Mean Absolute Error (MAE)
-Making predictions on unseen data
+- Exploring datasets with Pandas
+- Understanding features and target variables
+- Handling missing values with mean imputation
+- Splitting data into training and testing sets
+- Training a Linear Regression model
+- Evaluating performance using Mean Absolute Error (MAE)
+- Making predictions on unseen data
 
 ## Future Improvements
-Random Forest Regression
-Gradient Boosting
-Better Feature Engineering
-Hyperparameter Tuning
+- Random Forest Regression
+- Gradient Boosting
+- Better Feature Engineering
+- Hyperparameter Tuning
